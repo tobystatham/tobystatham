@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/tobystatham/tobystatham/aiimi-banner.jpeg "Header")](https://aiimi.com/)
+[![Header](https://github.com/tobystatham/tobystatham/blob/main/aiimi-banner.jpeg "Header")](https://aiimi.com/)
 
 
 ### Hi there 👋
